@@ -1,0 +1,34 @@
+# One niche per line. Comments and blank lines are ignored.
+# These become the first part of the search query:
+# e.g. "auto detailing shops in San Jose CA"
+
+# Auto / Vehicle
+auto detailing shops
+window tint shops
+car wrap shops
+auto repair shops
+body shops
+performance auto shops
+car audio shops
+
+# Health / Beauty
+dental clinics
+med spa
+cosmetic dentist
+hair salons
+nail salons
+barbershops
+
+# Training / Education
+CPR BLS training schools
+driving schools
+personal training studios
+yoga studios
+
+# Home Services
+HVAC companies
+plumbers
+electricians
+roofing companies
+pressure washing services
+landscaping companies

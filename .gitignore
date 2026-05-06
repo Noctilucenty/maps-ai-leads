@@ -1,5 +1,54 @@
-__pycache__/
+# Secrets — never commit
 .env
+*.env
+.env.*
+!.env.example
+
+# Lead data — private, do not commit
+data/
+leads.csv
+enriched_leads.csv
+outreach_ready_leads.csv
+email_campaign.csv
 *.csv
 *.xlsx
+
+# Checkpoint files from batch runs
+*.checkpoint
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Logs
 *.log
+logs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store

@@ -1,0 +1,18 @@
+# One city per line. Comments and blank lines are ignored.
+# Format: City Name (the --state flag appends the state automatically)
+
+San Jose
+San Francisco
+Oakland
+Fremont
+Hayward
+Santa Clara
+Sunnyvale
+Mountain View
+Palo Alto
+Berkeley
+Richmond
+Concord
+Vallejo
+Stockton
+Sacramento
